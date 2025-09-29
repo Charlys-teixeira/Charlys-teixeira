@@ -36,7 +36,7 @@ Meu objetivo é utilizar dados para apoiar decisões estratégicas e gerar solu�
 ---
 
 ## 📫 Contato
-- [LinkedIn](www.linkedin.com/in/charlys-geraldo-a66b46320)  
+- www.linkedin.com/in/charlys-geraldo-a66b46320
 - 📧 **E-mail:** charlysgeraldo@gmail.com  
 
 ---
