@@ -1,52 +1,78 @@
 # 👋 Olá, eu sou o Charlys Geraldo
 
-## 🎯 Cientista de Dados Júnior
+## 🛡️ Estudante de Cybersecurity | Linux Enthusiast | Python Developer
 
-Formado em Ciência de Dados pela TripleTen, com experiência prática em análise exploratória de dados, modelagem estatística e Machine Learning.  
-Meu objetivo é transformar dados em insights estratégicos e gerar soluções baseadas em evidências.
+Estudante de Cybersecurity com foco em Linux, redes e automação com Python.  
+Atualmente estudando linguagem C, fundamentos de segurança ofensiva e práticas em laboratório utilizando Linux.
 
-## 📂 Projetos em Destaque
+Buscando desenvolver experiência prática em segurança cibernética através de projetos, estudos e desafios técnicos.
 
-- ⛽ **OilyGiant – Seleção de Poços de Petróleo**  
-  Previsão de produção, análise de lucratividade e avaliação de risco com bootstrapping.
+---
 
-- 🚗 **Rusty Bargain – Previsão de Preços de Carros Usados**  
-  Modelos de regressão para estimar valores de carros usados e apoiar estratégias de precificação.
+# 🚩 Atualmente Estudando
 
-- 🚕 **Sweet Lift Taxi – Previsão de Pedidos de Táxi**  
-  Modelos de séries temporais para prever demanda horária e otimizar a alocação de motoristas.
+- Linux
+- Linguagem C
+- Fundamentos de Redes
+- Python
+- Segurança Ofensiva
+- Labs práticos
+- CTFs
 
-- 📱 **Megaline – Recomendação de Planos de Celular**  
-  Classificação de clientes para sugerir o plano ideal (Smart ou Ultra) usando Machine Learning.
+---
 
-- 🏦 **Beta Bank – Previsão de Churn de Clientes**  
-  Identificação de clientes com maior risco de evasão para apoiar estratégias de retenção.
+# 🧠 Tecnologias & Ferramentas
 
-- 🎬 **Film Junky Union – Análise de Sentimentos de Filmes**  
-  Modelos de NLP para classificar resenhas de filmes como positivas ou negativas com alto F1-score.
+## 💻 Linguagens
+- Python
+- C (aprendendo)
+- Bash
 
-- 📊 **Interconnect – Previsão de Churn de Operadora Fictícia**  
-  Análise de dados e modelagem de churn com clustering para segmentação de clientes.
+## 🐧 Sistemas
+- Linux (linux Mint / Kali Linux / Debian)
 
-- 🚖 **Taxi Trips Chicago – Análise de Corridas de Táxi**  
-  Visualização de padrões, ranking de bairros e teste de hipóteses sobre duração das corridas.
+## 🔐 Cybersecurity
+- Fundamentos de Redes
+- AAA / RADIUS / TACACS
+- Automação com Python
+- Conceitos básicos de Segurança Ofensiva
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
-- **Linguagem:** Python  
-- **Bibliotecas:** pandas, numpy, matplotlib, seaborn, scikit-learn, LightGBM  
-- **Outros:** Jupyter Notebook, Git, GitHub  
+# 📂 Projetos em Destaque
 
-## 📚 Aprendizados Recentes
+## 🔐 Sistema de Análise de Segurança de Senhas
+Projeto em Python voltado para análise de força, padrões inseguros e vulnerabilidades em senhas.
 
-- Construção e avaliação de modelos de Machine Learning (classificação, regressão e séries temporais)  
-- Técnicas de balanceamento de classes (oversampling e undersampling)  
-- Seleção de features, escalonamento de dados e validação cruzada  
-- Storytelling com dados para comunicar resultados de forma clara  
+## ⚔️ Simulador de Brute Force
+Projeto educacional para estudo de ataques de força bruta e estratégias defensivas.
 
-## 📫 Contato
+## 🛡️ Detector de Logins Suspeitos
+Projeto focado em identificar atividades de login potencialmente suspeitas.
 
-- [LinkedIn](https://www.linkedin.com/in/charlys-geraldo-a66b46320)  
-- 📧 charlysgeraldo@gmail.com  
+## 🐧 Labs Linux & Segurança
+Labs pessoais envolvendo Linux, terminal e estudos práticos de cybersecurity.
 
-⭐ Confira meus projetos e sinta-se à vontade para deixar sugestões!
+---
+
+# 📚 Background em Ciência de Dados
+
+Antes da transição para Cybersecurity, desenvolvi projetos de Ciência de Dados e Machine Learning utilizando Python.
+
+Essa experiência contribuiu para fortalecer:
+- pensamento analítico
+- resolução de problemas
+- manipulação de dados
+- lógica de programação
+
+---
+
+# 📫 Contato
+
+- GitHub: https://github.com/Charlys-teixeira
+- LinkedIn: https://www.linkedin.com/in/charlys-geraldo-a66b46320
+- Email: charlysgeraldo@gmail.com
+
+---
+
+⭐ Sempre aprendendo e evoluindo.
